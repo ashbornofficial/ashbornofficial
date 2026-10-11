@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Ashborn" />
+<img src="assets/banner.webp" width="100%" alt="Ashborn" />
 
 </div>
 
